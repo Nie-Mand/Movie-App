@@ -40,5 +40,5 @@
   - role [USER, ADMIN, MODERATOR]
 
 - USER gets movies
-- ADMIN add, update, delete Movies and Users
+- ADMIN get, add, update, delete Movies and Users
 - MODERATOR add, update, delete Movies
